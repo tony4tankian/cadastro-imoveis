@@ -1,0 +1,147 @@
+
+--------------------Pagina de Visitante----------------------
+
+Topicos do Menu/ Busca / Lista imoveis / Corretores /Sobre / Contatos
+--------------------------------------------------------------------
+Busca de imoveis: pelo nome ou Categoria;
+
+Lista imoveis: Em Card na Pagina Inicial DO visitante;Com Paginação;
+	filtros por Categoria
+		casas
+		partamentos
+		lotes
+		casas em condominio fechado:
+		
+Card do imovel : 
+	Categoria do Imovel:
+	valor do imovel
+	quantos quartos ?:
+	quantas suites ?:
+	varanda ?
+	metros quadrados ?
+	sala?
+	cozinha ?
+	jacuze:?
+	DCE?
+	moveis Inclusos?
+	bairro?
+	status: disponivel,vendido, alugado ?
+	corretor responsavel(Link Para Contato no whatssap)
+	
+
+
+Corretores:Lista en card ou Lista /Procurar
+	maria
+	jessica
+	luiza
+	joser
+	Michele
+	Ivoneide
+	Emanuele
+	Antonio
+	Elias
+Sobre:Descricao do sistema
+	corretores de teresina e reginao
+	todos credenciados e com experiencia 
+	no mercado:
+	programadores:antonio, elias, etc...
+Contatos:
+	instagram
+	face
+	whatssap
+	
+	
+	
+	
+	
+--------------------Pagina do Corretor----------------------------------------------------------
+menu:/ Lista Imoveis /Nova Categoria  /Novo imovel /Adicionar cliente /lista clientes / meu Perfil/
+
+-------------------------------------------------------------------------------------------------
+-->Imoveis disponiveis:
+	Lista todos:
+	Lista meus imoveis:no sistema em card ou lista do corretor logado
+		Remover(apenas do corretor Logado)
+		Editar (apenas do corretor Logado)
+	
+	
+-->Nova Categoria de imovel
+	Lista
+	Editar
+		ex:
+		lotes, 
+		Apartamentos,
+		casas em condominio fechado
+
+-->Novo imovel:	
+	valor do imovel
+	quantos quartos ?:
+	quantas suites ?:
+	varanda ?
+	metros quadrados ?
+	sala?
+	cozinha ?
+	jacuze:?
+	DCE?
+	moveis Inclusos?
+	bairro?
+	status: disponivel,vendido, alugado ?
+	-->Adicionar imagens para o imovel
+	(id selesionado) no maximo 10 fotos por  imovel
+
+---> Adicinar cliente enteresado:
+	nome completo
+	descricao
+	telefone
+	
+--> Editar Perfil do Corretor(meu Perfil)
+	-nome Corretor
+	-foto(1 foto por corretor)
+	-Email
+	-Foto
+	-telefone whatssap
+	-Redes Sociais(instagram, facebook)
+	
+-->clientes
+	Lista Clientes:
+	Editar:
+	Novo cLiente pelo Corretor Logado
+		- nome	
+		- endereço
+		- Telefone
+		- email
+		- Descricao
+		- Entereses do Cliente
+	
+-->Proprietarios do imovel
+	Lista Proprietarios:
+	Editar:
+	Novo cLiente pelo Corretor Logado
+		- nome	
+		- endereço
+		- Telefone
+		- email
+		- Descricao
+		- Entereses do Proprietarios
+		
+	
+	
+--------------------Admin ----------------------------------------------------------
+Super Usuario ; / Cadastrar novo Corretor/ Senha e email / Senha Criptografada	
+				/Editar corretor 
+				/Lista Corretores
+				/e pode fazer tudo que o corretor faz também
+
+-------------------------------------------------------------------------------------------------
+
+
+Escopo do projeto:
+Sistema de Cadastro de imoveis e corretores
+data: 16/02/2023
+
+Programadores: Elias, Antonio ...
+
+Etapas Feitas:
+	1°:....
+	
+	

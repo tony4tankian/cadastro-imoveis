@@ -1,0 +1,50 @@
+body{
+		background: #B1B8BD url('../imagens/background.jpg') 0 0 no-repeat;
+		background-repeat: repeat-y;
+		background-size: cover;
+		font-family: 'Montserrat', sans-serif;
+		font-size:15px;
+
+		background: rgb(58,171,180);
+		background: linear-gradient(90deg, rgba(58,171,180,0.8603816526610644) 0%, rgba(164,69,252,1) 100%);
+		
+	}
+
+	.janela-login{
+		margin:auto;
+		margin-top:10%;
+		border:1px solid black;
+		
+		font-family: 'Montserrat', sans-serif;
+		padding:20px;
+		background-color:black;
+		color:white;
+		border-radius:10px;
+		width:500px;	
+		text-align:center;
+		
+		-webkit-box-shadow: -1px 0px 18px 0px rgba(0,0,0,0.69);
+		-moz-box-shadow: -1px 0px 18px 0px rgba(0,0,0,0.69);
+		box-shadow: -1px 0px 18px 0px rgba(0,0,0,0.69);
+	}
+	.titulo-login{
+		text-align:center;
+		font-size:25px;
+
+	}
+	.box-login{
+		margin:auto;
+		margin-top:5%;
+		width:40%;
+		text-align:left;
+	}
+	.box-login input{
+		border-radius:6px;
+		font-size:18px;
+	}
+	.box-login button{
+		border-radius:6px;
+		font-size:18px;
+		padding:6px;
+		margin-left:60px;
+	}
